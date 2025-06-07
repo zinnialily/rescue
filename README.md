@@ -1,7 +1,7 @@
 # RESCUE: Real-world Emergency Solutions for Crisis Response Vehicle and Urgent Evacuation Routing
 
 ## Project Overview
-**RESCUE** is a research project focused on developing and evaluating optimized pathway-finding solutions for emergency vehicles in disaster scenarios. Our goal is to minimize response times and risk by accounting for real-world complexities such as damaged roads, resource limitations, hospital capacities, and dynamic victim conditions.
+**RESCUE** is a research project focused on developing and evaluating optimized pathway-finding solutions for emergency vehicles in disaster scenarios. The goal is to minimize response times and risk by accounting for real-world complexities such as damaged roads, resource limitations, hospital capacities, and dynamic victim conditions.
 
 ## The Problem
 Disasters introduce significant challenges to emergency medical services (EMS), including:
